@@ -1,0 +1,6 @@
+__pycache__/
+.vscode/
+.pytest_cache/
+tests/unit/__pycache__/
+src/pinyin_tools/__pycache__/
+lens_analysis.code-workspace
